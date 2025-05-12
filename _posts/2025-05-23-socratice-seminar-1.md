@@ -8,7 +8,7 @@ title: "Socratic Seminar #01"
 
 The event will be hosted at **Africa’s Talking Uganda**:
 
-John Babiiha (Acacia) Avenue, Kampala |  [Map](https://maps.app.goo.gl/nihbeLcgbeTzYGdV7){:target="_blank"}
+John Babiiha (Acacia) Avenue, Kampala [Map](https://maps.app.goo.gl/nihbeLcgbeTzYGdV7){:target="_blank"}
 
 ### Agenda
 
