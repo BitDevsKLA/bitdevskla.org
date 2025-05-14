@@ -4,5 +4,5 @@ tagline: 'BitDevsKLA is a monthly meetup devoted to the research and development
 menu:
   - {name: 'Events', url: '/events.html'}
   - {name: 'Luma', url: 'https://lu.ma/bitdevskla', external: true}
-  - {name: 'Discord', url: '#', external: true}
+  - {name: 'Discord', url: 'https://discord.gg/jxdvET2PdS', external: true}
   - {name: 'X', url: 'https://x.com/BitDevsKLA', external: true}
