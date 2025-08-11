@@ -7,10 +7,10 @@
       {% for item in site.data.settings.menu %}
         {% if item.external %}
         <a href="{{ item.url }}" target="_blank" rel="noopener nofollow">
-            {{ item.name }}
+            <i class="{{ item.icon }}"></i>
         </a>
         {% else %}
-          <a href="{{ site.github.url }}{{ item.url }}">{{ item.name }}</a>
+          <a href="{{ site.github.url }}{{ item.url }}"><i class="{{ item.icon }}"></i></a>
         {% endif %}
       {% endfor %}
     </nav>
