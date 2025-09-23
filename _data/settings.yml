@@ -10,7 +10,7 @@ tagline: 'BitDevsKLA is a monthly meetup devoted to the research and development
 
 menu:
   - {icon: 'fa-solid fa-calendar', url: '/events.html'}
-  - {icon: 'fa-solid fa-link', url: 'https://lu.ma/bitdevskla', external: true}
+  - {icon: 'fa-solid fa-link', url: 'https://clooza.com/bitdevskampala', external: true}
   - {icon: 'fa-brands fa-discord', url: 'https://discord.gg/jxdvET2PdS', external: true}
   - {icon: 'fa-brands fa-x-twitter', url: 'https://x.com/BitDevsKLA', external: true}
   - {icon: 'fa-brands fa-whatsapp', url: 'https://chat.whatsapp.com/FohaYjTdSMCIYaqACzoVQs', external: true}
