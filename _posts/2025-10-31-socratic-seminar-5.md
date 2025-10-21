@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar #04"
+title: "Socratic Seminar #05"
 ---
 
 ## Event Details
@@ -12,15 +12,13 @@ John Babiiha (Acacia) Avenue, Kampala [Map](https://maps.app.goo.gl/nihbeLcgbeTz
 
 **Time:** 5:00PM - 6:30PM
 
-[Register for the Meet Up](https://clooza.com/events/BITDEVSKLA)
+[Register for the Meet Up](https://clooza.com/events/BITDEVSKLA-OCT)
 
 ### Agenda
 
 05:10pm Welcoming Address
 
-05:20pm Understanding UTXOs – Angella 
-
-05:50pm [My Bitcoin Open Source Journey](https://blog.btrust.tech/announcing-q3-2025-btrust-developer-grant-recipients/)  - Emmanuel
+05:20pm [Contributing to BTCPay Server: A developer's onboarding session](https://github.com/btcpayserver/btcpayserver) - Monica
 
 06:30pm Networking & Refreshments
 
