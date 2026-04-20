@@ -14,11 +14,11 @@ Rather than our usual Socratic format, the meetup day is dedicated to building L
 
 ### Agenda
 
-1. Lightning project building sessions
+- Lightning project building sessions
 
-2. Project demos from bootcamp participants
+- Project demos from bootcamp participants
 
-3. Awarding of winning projects and closing remarks
+- Awarding of winning projects and closing remarks
 
 A special thank you to [Africa Free Routing](https://freerouting.africa/) for organizing the bootcamp and partnering with us, and to our sponsor [Btrust](http://btrust.tech/).
 

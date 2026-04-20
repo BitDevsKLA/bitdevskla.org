@@ -17,9 +17,9 @@ John Babiiha (Acacia) Avenue, Kampala [Map](https://maps.app.goo.gl/nihbeLcgbeTz
 
 ### Agenda
 
-1. Quick 2025 recap
+- Quick 2025 recap
 
-2. Bitcoin Fundamentals: 
+- Bitcoin Fundamentals: 
  - [The bitcoin white paper](https://bitcoin.org/bitcoin.pdf)
  - What problem does Bitcoin solve and How does it solve it?
  - Current state of Bitcoin adoption in Uganda and limitations to adoption.
