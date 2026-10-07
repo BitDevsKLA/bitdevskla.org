@@ -1,23 +1,25 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar #12"
+title: "Socratic Seminar #13"
 ---
 
 ## Event Details
 
-You're invited to BitDevs Kampala July Socratic Seminar! 🎉
+You're invited to BitDevs Kampala August Socratic Seminar! 🎉
 The event will be hosted at **Africa’s Talking Uganda**:
 
 John Babiiha (Acacia) Avenue, Kampala [Map](https://maps.app.goo.gl/nihbeLcgbeTzYGdV7){:target="_blank"}
 
-**Time:** 5:00PM - 6:30PM
+**Time:** 5:30PM - 7:30PM
 
-[Register for the Meet Up](https://www.clooza.com/en/events/BITDEVSKLA-JUL)
+[Register for the Meet Up](https://www.clooza.com/en/events/BITDEVSKLA-AUG)
 
 ### Agenda
 
-- Bitcoin Core in Regtest: Wallets, RPC, and Polar - [Keith](https://github.com/keithunt-35)
+- Introductions, contributor wins and updates
+
+- [A History Lesson on BIP-110 (Reduced Data Temporary Softfork)](https://gist.github.com/drew-coder/643920b72c29b289a57f1bfc7267297d) - [Joe](https://github.com/winterrdog)
 
 
 A special thank you to our sponsor [Btrust](http://btrust.tech/) 
